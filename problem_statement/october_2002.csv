@@ -1,0 +1,642 @@
+DISTRICT,DT_CEN_CD,ST_CEN_CD,ST_NM,censuscode,date,mean
+Chandigarh,1,4,Chandigarh,55,2002-10-01,593.0235611
+Daman,2,25,Daman & Diu,495,2002-10-01,458.8008976
+Diu,1,25,Daman & Diu,494,2002-10-01,410.7406231
+Dadra & Nagar Haveli,1,26,Dadara & Nagar Havelli,496,2002-10-01,373.0013199
+South Goa,2,30,Goa,586,2002-10-01,495.9377276
+North Goa,1,30,Goa,585,2002-10-01,534.6568321
+Lakshadweep,1,31,Lakshadweep,587,2002-10-01,414.7683033
+Data Not Available,99,99,Jammu & Kashmir,0,2002-10-01,85.42829382
+Ramban,17,1,Jammu & Kashmir,17,2002-10-01,167.7578351
+Reasi,20,1,Jammu & Kashmir,20,2002-10-01,210.9502836
+Samba,22,1,Jammu & Kashmir,22,2002-10-01,397.9613829
+Shupiyan,13,1,Jammu & Kashmir,13,2002-10-01,199.0919466
+Srinagar,10,1,Jammu & Kashmir,10,2002-10-01,219.9723026
+Udhampur,19,1,Jammu & Kashmir,19,2002-10-01,205.844907
+Anantnag,14,1,Jammu & Kashmir,14,2002-10-01,148.9484016
+Badgam,2,1,Jammu & Kashmir,2,2002-10-01,215.2950947
+Bandipore,9,1,Jammu & Kashmir,9,2002-10-01,131.1547584
+Baramula,8,1,Jammu & Kashmir,8,2002-10-01,240.5366475
+Doda,16,1,Jammu & Kashmir,16,2002-10-01,149.6361417
+Ganderbal,11,1,Jammu & Kashmir,11,2002-10-01,98.06435012
+Jammu,21,1,Jammu & Kashmir,21,2002-10-01,432.5647561
+Kargil,4,1,Jammu & Kashmir,4,2002-10-01,41.69213841
+Kathua,7,1,Jammu & Kashmir,7,2002-10-01,294.9987739
+Kishtwar,18,1,Jammu & Kashmir,18,2002-10-01,76.36258271
+Kulgam,15,1,Jammu & Kashmir,15,2002-10-01,168.9357012
+Kupwara,1,1,Jammu & Kashmir,1,2002-10-01,174.7276548
+Leh (ladakh),3,1,Jammu & Kashmir,3,2002-10-01,25.32461278
+Pulwama,12,1,Jammu & Kashmir,12,2002-10-01,203.9900596
+Punch,5,1,Jammu & Kashmir,5,2002-10-01,188.5695184
+Rajouri,6,1,Jammu & Kashmir,6,2002-10-01,232.4034877
+Shimla,11,2,Himachal Pradesh,33,2002-10-01,136.4766428
+Sirmaur,10,2,Himachal Pradesh,32,2002-10-01,244.3397332
+Solan,9,2,Himachal Pradesh,31,2002-10-01,281.8022973
+Una,7,2,Himachal Pradesh,29,2002-10-01,402.2672208
+Bilaspur,8,2,Himachal Pradesh,30,2002-10-01,318.9693923
+Chamba,1,2,Himachal Pradesh,23,2002-10-01,109.4666578
+Hamirpur,6,2,Himachal Pradesh,28,2002-10-01,284.3620879
+Kangra,2,2,Himachal Pradesh,24,2002-10-01,256.4580833
+Kinnaur,12,2,Himachal Pradesh,34,2002-10-01,53.48972429
+Kullu,4,2,Himachal Pradesh,26,2002-10-01,107.7762278
+Lahul & Spiti,3,2,Himachal Pradesh,25,2002-10-01,30.60611627
+Mandi,5,2,Himachal Pradesh,27,2002-10-01,166.7714762
+Rupnagar,17,3,Punjab,51,2002-10-01,527.2798183
+Sahibzada Ajit Singh Nagar,18,3,Punjab,52,2002-10-01,613.7604563
+Sangrur,19,3,Punjab,53,2002-10-01,1053.588441
+Shahid Bhagat Singh Nagar,5,3,Punjab,39,2002-10-01,626.9845494
+Tarn Taran,16,3,Punjab,50,2002-10-01,820.7049115
+Amritsar,15,3,Punjab,49,2002-10-01,736.49117
+Barnala,20,3,Punjab,54,2002-10-01,1118.004632
+Bathinda,12,3,Punjab,46,2002-10-01,1056.076508
+Faridkot,11,3,Punjab,45,2002-10-01,1102.633931
+Fatehgarh Sahib,6,3,Punjab,40,2002-10-01,836.1254728
+Firozpur,9,3,Punjab,43,2002-10-01,959.3241962
+Gurdaspur,1,3,Punjab,35,2002-10-01,560.1676529
+Hoshiarpur,4,3,Punjab,38,2002-10-01,517.2764521
+Jalandhar,3,3,Punjab,37,2002-10-01,782.3962469
+Kapurthala,2,3,Punjab,36,2002-10-01,762.8888989
+Ludhiana,7,3,Punjab,41,2002-10-01,957.0800079
+Mansa,13,3,Punjab,47,2002-10-01,979.0378205
+Moga,8,3,Punjab,42,2002-10-01,1001.253369
+Muktsar,10,3,Punjab,44,2002-10-01,1012.379502
+Patiala,14,3,Punjab,48,2002-10-01,995.0454984
+Rudraprayag,3,5,Uttarakhand,58,2002-10-01,141.1345956
+Tehri Garhwal,4,5,Uttarakhand,59,2002-10-01,168.7745647
+Udham Singh Nagar,12,5,Uttarakhand,67,2002-10-01,499.2556218
+Uttarkashi,1,5,Uttarakhand,56,2002-10-01,93.13876245
+Almora,9,5,Uttarakhand,64,2002-10-01,182.4814534
+Bageshwar,8,5,Uttarakhand,63,2002-10-01,138.8104338
+Chamoli,2,5,Uttarakhand,57,2002-10-01,86.8831317
+Champawat,10,5,Uttarakhand,65,2002-10-01,236.5049674
+Dehradun,5,5,Uttarakhand,60,2002-10-01,233.8829281
+Garhwal,6,5,Uttarakhand,61,2002-10-01,228.2404113
+Hardwar,13,5,Uttarakhand,68,2002-10-01,513.1820603
+Nainital,11,5,Uttarakhand,66,2002-10-01,334.2775985
+Pithoragarh,7,5,Uttarakhand,62,2002-10-01,102.9482455
+Rewari,17,6,Haryana,85,2002-10-01,497.0509668
+Rohtak,14,6,Haryana,82,2002-10-01,700.9399922
+Sirsa,11,6,Haryana,79,2002-10-01,899.2362173
+Sonipat,8,6,Haryana,76,2002-10-01,938.7456311
+Yamunanagar,3,6,Haryana,71,2002-10-01,621.2983245
+Jind,9,6,Haryana,77,2002-10-01,971.1442019
+Ambala,2,6,Haryana,70,2002-10-01,733.3756031
+Bhiwani,13,6,Haryana,81,2002-10-01,554.5250321
+Faridabad,20,6,Haryana,88,2002-10-01,685.0311876
+Fatehabad,10,6,Haryana,78,2002-10-01,913.312173
+Gurgaon,18,6,Haryana,86,2002-10-01,555.9115049
+Hisar,12,6,Haryana,80,2002-10-01,801.3003859
+Jhajjar,15,6,Haryana,83,2002-10-01,589.6058335
+Kaithal,5,6,Haryana,73,2002-10-01,1129.069262
+Karnal,6,6,Haryana,74,2002-10-01,1143.951597
+Kurukshetra,4,6,Haryana,72,2002-10-01,997.6632825
+Mahendragarh,16,6,Haryana,84,2002-10-01,459.1374059
+Mewat,19,6,Haryana,87,2002-10-01,508.1604548
+Palwal,21,6,Haryana,89,2002-10-01,555.8756321
+Panchkula,1,6,Haryana,69,2002-10-01,453.7673377
+Panipat,7,6,Haryana,75,2002-10-01,1165.965937
+South,9,7,NCT of Delhi,98,2002-10-01,759.1937917
+South West,8,7,NCT of Delhi,97,2002-10-01,697.864779
+West,7,7,NCT of Delhi,96,2002-10-01,808.9272432
+Central,6,7,NCT of Delhi,95,2002-10-01,861.5227927
+East,4,7,NCT of Delhi,93,2002-10-01,896.4317312
+New Delhi,5,7,NCT of Delhi,94,2002-10-01,841.6999747
+North,2,7,NCT of Delhi,91,2002-10-01,889.3215033
+North East,3,7,NCT of Delhi,92,2002-10-01,899.051439
+North West,1,7,NCT of Delhi,90,2002-10-01,833.4931918
+Rajsamand,25,8,Rajasthan,123,2002-10-01,333.7787949
+Sikar,13,8,Rajasthan,111,2002-10-01,392.4844836
+Sirohi,19,8,Rajasthan,117,2002-10-01,349.4498283
+Tonk,22,8,Rajasthan,120,2002-10-01,354.1166216
+Udaipur,32,8,Rajasthan,130,2002-10-01,347.8001327
+Dausa,11,8,Rajasthan,109,2002-10-01,424.7571127
+Karauli,9,8,Rajasthan,107,2002-10-01,421.6376058
+Sawai Madhopur,10,8,Rajasthan,108,2002-10-01,388.3455873
+Ajmer,21,8,Rajasthan,119,2002-10-01,336.86968
+Alwar,6,8,Rajasthan,104,2002-10-01,457.092017
+Banswara,27,8,Rajasthan,125,2002-10-01,369.9543994
+Baran,30,8,Rajasthan,128,2002-10-01,355.0911855
+Barmer,17,8,Rajasthan,115,2002-10-01,452.7492719
+Bharatpur,7,8,Rajasthan,105,2002-10-01,501.0234139
+Bhilwara,24,8,Rajasthan,122,2002-10-01,325.6667624
+Bikaner,3,8,Rajasthan,101,2002-10-01,535.9068911
+Bundi,23,8,Rajasthan,121,2002-10-01,358.8196303
+Chittaurgarh,28,8,Rajasthan,126,2002-10-01,340.1410088
+Churu,4,8,Rajasthan,102,2002-10-01,477.7783266
+Dhaulpur,8,8,Rajasthan,106,2002-10-01,480.6242712
+Dungarpur,26,8,Rajasthan,124,2002-10-01,369.755751
+Ganganagar,1,8,Rajasthan,99,2002-10-01,728.3484319
+Hanumangarh,2,8,Rajasthan,100,2002-10-01,742.2076985
+Jaipur,12,8,Rajasthan,110,2002-10-01,378.1056426
+Jaisalmer,16,8,Rajasthan,114,2002-10-01,530.2552424
+Jalor,18,8,Rajasthan,116,2002-10-01,371.6440285
+Jhalawar,31,8,Rajasthan,129,2002-10-01,356.8177836
+Jhunjhunun,5,8,Rajasthan,103,2002-10-01,434.1817398
+Jodhpur,15,8,Rajasthan,113,2002-10-01,423.7075814
+Kota,29,8,Rajasthan,127,2002-10-01,370.7328754
+Nagaur,14,8,Rajasthan,112,2002-10-01,359.6412246
+Pali,20,8,Rajasthan,118,2002-10-01,362.1032758
+Pratapgarh,33,8,Rajasthan,131,2002-10-01,340.8787473
+Rampur,5,9,Uttar Pradesh,136,2002-10-01,638.5014821
+Saharanpur,1,9,Uttar Pradesh,132,2002-10-01,656.1602021
+Sant Kabir Nagar,55,9,Uttar Pradesh,186,2002-10-01,644.4989464
+Sant Ravi Das Nagar(bhadohi),67,9,Uttar Pradesh,198,2002-10-01,544.4126261
+Shahjahanpur,21,9,Uttar Pradesh,152,2002-10-01,665.7304662
+Shrawasti,50,9,Uttar Pradesh,181,2002-10-01,545.6482834
+Siddharth Nagar,53,9,Uttar Pradesh,184,2002-10-01,624.8621319
+Sitapur,23,9,Uttar Pradesh,154,2002-10-01,610.2731107
+Sonbhadra,69,9,Uttar Pradesh,200,2002-10-01,436.3186501
+Sultanpur,48,9,Uttar Pradesh,179,2002-10-01,628.6595379
+Unnao,25,9,Uttar Pradesh,156,2002-10-01,524.9702649
+Varanasi,66,9,Uttar Pradesh,197,2002-10-01,552.9723156
+Agra,15,9,Uttar Pradesh,146,2002-10-01,543.7066975
+Aligarh,12,9,Uttar Pradesh,143,2002-10-01,616.6681168
+Allahabad,44,9,Uttar Pradesh,175,2002-10-01,544.915029
+Ambedkar Nagar,47,9,Uttar Pradesh,178,2002-10-01,605.7093237
+Auraiya,31,9,Uttar Pradesh,162,2002-10-01,533.9510389
+Azamgarh,60,9,Uttar Pradesh,191,2002-10-01,639.2653396
+Baghpat,8,9,Uttar Pradesh,139,2002-10-01,1081.000509
+Bahraich,49,9,Uttar Pradesh,180,2002-10-01,546.983363
+Ballia,62,9,Uttar Pradesh,193,2002-10-01,673.4918237
+Balrampur,51,9,Uttar Pradesh,182,2002-10-01,599.2597059
+Banda,39,9,Uttar Pradesh,170,2002-10-01,460.5700847
+Bara Banki,45,9,Uttar Pradesh,176,2002-10-01,625.9180821
+Bareilly,19,9,Uttar Pradesh,150,2002-10-01,667.3553711
+Basti,54,9,Uttar Pradesh,185,2002-10-01,659.7128325
+Bijnor,3,9,Uttar Pradesh,134,2002-10-01,610.0806782
+Budaun,18,9,Uttar Pradesh,149,2002-10-01,697.7790533
+Bulandshahr,11,9,Uttar Pradesh,142,2002-10-01,767.1990535
+Chandauli,65,9,Uttar Pradesh,196,2002-10-01,530.7669844
+Chitrakoot,40,9,Uttar Pradesh,171,2002-10-01,504.8395473
+Deoria,59,9,Uttar Pradesh,190,2002-10-01,708.5691417
+Etah,70,9,Uttar Pradesh,201,2002-10-01,614.1439052
+Etawah,30,9,Uttar Pradesh,161,2002-10-01,517.5129224
+Faizabad,46,9,Uttar Pradesh,177,2002-10-01,657.7526449
+Farrukhabad,28,9,Uttar Pradesh,159,2002-10-01,656.1195809
+Fatehpur,41,9,Uttar Pradesh,172,2002-10-01,512.9173103
+Firozabad,16,9,Uttar Pradesh,147,2002-10-01,560.1492312
+Gautam Buddha Nagar,10,9,Uttar Pradesh,141,2002-10-01,820.2398262
+Ghaziabad,9,9,Uttar Pradesh,140,2002-10-01,939.080265
+Ghazipur,64,9,Uttar Pradesh,195,2002-10-01,630.3757597
+Gonda,52,9,Uttar Pradesh,183,2002-10-01,636.4105332
+Gorakhpur,57,9,Uttar Pradesh,188,2002-10-01,677.71284
+Hamirpur,37,9,Uttar Pradesh,168,2002-10-01,447.7696513
+Hardoi,24,9,Uttar Pradesh,155,2002-10-01,582.5633253
+Mahamaya Nagar,13,9,Uttar Pradesh,144,2002-10-01,597.9274366
+Jalaun,34,9,Uttar Pradesh,165,2002-10-01,477.8677159
+Jaunpur,63,9,Uttar Pradesh,194,2002-10-01,590.6359299
+Jhansi,35,9,Uttar Pradesh,166,2002-10-01,414.1278475
+Jyotiba Phule Nagar,6,9,Uttar Pradesh,137,2002-10-01,826.8248545
+Kannauj,29,9,Uttar Pradesh,160,2002-10-01,611.1768386
+Kanpur Dehat,32,9,Uttar Pradesh,163,2002-10-01,530.6203891
+Kanpur Nagar,33,9,Uttar Pradesh,164,2002-10-01,508.8711375
+Kansiram Nagar,71,9,Uttar Pradesh,202,2002-10-01,616.430316
+Kaushambi,43,9,Uttar Pradesh,174,2002-10-01,569.7947269
+Kheri,22,9,Uttar Pradesh,153,2002-10-01,585.7547666
+Kushinagar,58,9,Uttar Pradesh,189,2002-10-01,671.714088
+Lalitpur,36,9,Uttar Pradesh,167,2002-10-01,360.7313589
+Lucknow,26,9,Uttar Pradesh,157,2002-10-01,576.4433166
+Maharajganj,56,9,Uttar Pradesh,187,2002-10-01,616.2883536
+Mahoba,38,9,Uttar Pradesh,169,2002-10-01,407.5906542
+Mainpuri,17,9,Uttar Pradesh,148,2002-10-01,556.9151121
+Mathura,14,9,Uttar Pradesh,145,2002-10-01,548.0810103
+Mau,61,9,Uttar Pradesh,192,2002-10-01,692.6288604
+Meerut,7,9,Uttar Pradesh,138,2002-10-01,963.1315068
+Mirzapur,68,9,Uttar Pradesh,199,2002-10-01,447.4040627
+Moradabad,4,9,Uttar Pradesh,135,2002-10-01,712.6494723
+Muzaffarnagar,2,9,Uttar Pradesh,133,2002-10-01,906.3001389
+Pilibhit,20,9,Uttar Pradesh,151,2002-10-01,568.0247239
+Pratapgarh,42,9,Uttar Pradesh,173,2002-10-01,591.266084
+Rae Bareli,27,9,Uttar Pradesh,158,2002-10-01,580.8693
+Rohtas,32,10,Bihar,234,2002-10-01,568.5711539
+Saharsa,12,10,Bihar,214,2002-10-01,626.0318527
+Samastipur,19,10,Bihar,221,2002-10-01,634.9304883
+Saran (chhapra),17,10,Bihar,219,2002-10-01,650.1270654
+Sheikhpura,26,10,Bihar,228,2002-10-01,609.1327314
+Sheohar,3,10,Bihar,205,2002-10-01,606.662062
+Sitamarhi,4,10,Bihar,206,2002-10-01,613.369688
+Siwan,16,10,Bihar,218,2002-10-01,680.1328046
+Supaul,6,10,Bihar,208,2002-10-01,522.93547
+Vaishali,18,10,Bihar,220,2002-10-01,621.5542463
+Arwal,38,10,Bihar,240,2002-10-01,625.8065373
+Jehanabad,37,10,Bihar,239,2002-10-01,625.6234071
+Araria,7,10,Bihar,209,2002-10-01,448.2536439
+Aurangabad,33,10,Bihar,235,2002-10-01,567.0280188
+Banka,23,10,Bihar,225,2002-10-01,593.9843387
+Begusarai,20,10,Bihar,222,2002-10-01,591.6293465
+Bhagalpur,22,10,Bihar,224,2002-10-01,570.6160713
+Bhojpur,29,10,Bihar,231,2002-10-01,622.6633873
+Buxar,30,10,Bihar,232,2002-10-01,661.1498928
+Darbhanga,13,10,Bihar,215,2002-10-01,652.7955384
+Gaya,34,10,Bihar,236,2002-10-01,559.2129305
+Gopalganj,15,10,Bihar,217,2002-10-01,665.0478177
+Jamui,36,10,Bihar,238,2002-10-01,595.2950405
+Kaimur (bhabua),31,10,Bihar,233,2002-10-01,522.3508067
+Katihar,10,10,Bihar,212,2002-10-01,487.7455613
+Khagaria,21,10,Bihar,223,2002-10-01,572.8609499
+Kishanganj,8,10,Bihar,210,2002-10-01,385.9316805
+Lakhisarai,25,10,Bihar,227,2002-10-01,549.6834436
+Madhepura,11,10,Bihar,213,2002-10-01,576.3928558
+Madhubani,5,10,Bihar,207,2002-10-01,587.9705792
+Munger,24,10,Bihar,226,2002-10-01,560.4826135
+Muzaffarpur,14,10,Bihar,216,2002-10-01,619.1554387
+Nalanda,27,10,Bihar,229,2002-10-01,624.454134
+Nawada,35,10,Bihar,237,2002-10-01,579.1079611
+Pashchim Champaran,1,10,Bihar,203,2002-10-01,600.3301941
+Patna,28,10,Bihar,230,2002-10-01,639.2988187
+Purba Champaran,2,10,Bihar,204,2002-10-01,607.404591
+Purnia,9,10,Bihar,211,2002-10-01,488.2645562
+South,3,11,Sikkim,243,2002-10-01,255.9015244
+West,2,11,Sikkim,242,2002-10-01,196.8539833
+East,4,11,Sikkim,244,2002-10-01,174.2657747
+North,1,11,Sikkim,241,2002-10-01,58.13022025
+Tawang,1,12,Arunanchal Pradesh,245,2002-10-01,54.22894696
+Tirap,10,12,Arunanchal Pradesh,254,2002-10-01,185.4822556
+Upper Siang,8,12,Arunanchal Pradesh,252,2002-10-01,92.19475773
+Upper Subansiri,5,12,Arunanchal Pradesh,249,2002-10-01,107.6120176
+West Kameng,2,12,Arunanchal Pradesh,246,2002-10-01,154.7584681
+West Siang,6,12,Arunanchal Pradesh,250,2002-10-01,100.7910907
+Anjaw,16,12,Arunanchal Pradesh,260,2002-10-01,103.0918174
+Changlang,9,12,Arunanchal Pradesh,253,2002-10-01,139.0755728
+Dibang Valley,13,12,Arunanchal Pradesh,257,2002-10-01,78.98695879
+East Kameng,3,12,Arunanchal Pradesh,247,2002-10-01,143.0089504
+East Siang,7,12,Arunanchal Pradesh,251,2002-10-01,118.8770853
+Kurung Kumey,12,12,Arunanchal Pradesh,256,2002-10-01,116.1845527
+Lohit,15,12,Arunanchal Pradesh,259,2002-10-01,124.364461
+Lower Dibang Valley,14,12,Arunanchal Pradesh,258,2002-10-01,103.5043063
+Lower Subansiri,11,12,Arunanchal Pradesh,255,2002-10-01,119.0704036
+Papum Pare,4,12,Arunanchal Pradesh,248,2002-10-01,138.0587186
+Tuensang,7,13,Nagaland,267,2002-10-01,215.2627081
+Wokha,4,13,Nagaland,264,2002-10-01,233.3524957
+Zunheboto,3,13,Nagaland,263,2002-10-01,210.1230275
+Dimapur,5,13,Nagaland,265,2002-10-01,254.642574
+Kiphire,9,13,Nagaland,269,2002-10-01,185.3307526
+Kohima,10,13,Nagaland,270,2002-10-01,189.9136232
+Longleng,8,13,Nagaland,268,2002-10-01,208.0775558
+Mokokchung,2,13,Nagaland,262,2002-10-01,216.9583673
+Mon,1,13,Nagaland,261,2002-10-01,207.2403041
+Peren,11,13,Nagaland,271,2002-10-01,222.7998092
+Phek,6,13,Nagaland,266,2002-10-01,185.8264202
+Senapati,1,14,Manipur,272,2002-10-01,200.1232446
+Tamenglong,2,14,Manipur,273,2002-10-01,197.2736557
+Thoubal,5,14,Manipur,276,2002-10-01,260.7674643
+Ukhrul,8,14,Manipur,279,2002-10-01,218.988048
+Bishnupur,4,14,Manipur,275,2002-10-01,260.0400952
+Chandel,9,14,Manipur,280,2002-10-01,197.2609755
+Churachandpur,3,14,Manipur,274,2002-10-01,192.1696091
+Imphal East,7,14,Manipur,278,2002-10-01,233.2222594
+Imphal West,6,14,Manipur,277,2002-10-01,208.243765
+Saiha,8,15,Mizoram,288,2002-10-01,180.3617806
+Serchhip,5,15,Mizoram,285,2002-10-01,145.0326029
+Aizawl,3,15,Mizoram,283,2002-10-01,179.6309919
+Champhai,4,15,Mizoram,284,2002-10-01,161.6597672
+Kolasib,2,15,Mizoram,282,2002-10-01,238.4498408
+Lawangtlai,7,15,Mizoram,287,2002-10-01,229.852507
+Lunglei,6,15,Mizoram,286,2002-10-01,189.1182161
+Mamit,1,15,Mizoram,281,2002-10-01,215.2069664
+South Tripura,2,16,Tripura,290,2002-10-01,237.4078002
+West Tripura,1,16,Tripura,289,2002-10-01,274.4064662
+Dhalai,3,16,Tripura,291,2002-10-01,240.9494662
+North Tripura,4,16,Tripura,292,2002-10-01,240.6082162
+Ri Bhoi,5,17,Meghalaya,297,2002-10-01,294.3299962
+South Garo Hills,3,17,Meghalaya,295,2002-10-01,286.1101635
+West Garo Hills,1,17,Meghalaya,293,2002-10-01,336.6706975
+West Khasi Hills,4,17,Meghalaya,296,2002-10-01,239.4413281
+East Garo Hills,2,17,Meghalaya,294,2002-10-01,284.8470362
+East Khasi Hills,6,17,Meghalaya,298,2002-10-01,222.3924607
+Jaintia Hills,7,17,Meghalaya,299,2002-10-01,225.0179457
+Sivasagar,12,18,Assam,311,2002-10-01,183.8819219
+Sonitpur,7,18,Assam,306,2002-10-01,229.6047701
+Tinsukia,10,18,Assam,309,2002-10-01,135.5099828
+Udalguri,27,18,Assam,326,2002-10-01,188.490274
+Baksa,25,18,Assam,324,2002-10-01,177.1498225
+Barpeta,4,18,Assam,303,2002-10-01,271.4708088
+Bongaigaon,20,18,Assam,319,2002-10-01,231.0092116
+Cachar,17,18,Assam,316,2002-10-01,229.2561896
+Chirang,21,18,Assam,320,2002-10-01,209.864453
+Darrang,26,18,Assam,325,2002-10-01,254.8808125
+Dhemaji,9,18,Assam,308,2002-10-01,131.6641028
+Dhubri,2,18,Assam,301,2002-10-01,332.7175079
+Dibrugarh,11,18,Assam,310,2002-10-01,151.7994827
+Goalpara,3,18,Assam,302,2002-10-01,290.6056601
+Golaghat,14,18,Assam,313,2002-10-01,215.02604
+Hailakandi,19,18,Assam,318,2002-10-01,242.2007082
+Jorhat,13,18,Assam,312,2002-10-01,235.8764719
+Kamrup,22,18,Assam,321,2002-10-01,275.2150237
+Kamrup Metropolitan,23,18,Assam,322,2002-10-01,292.7764918
+Karbi Anglong,15,18,Assam,314,2002-10-01,230.1531774
+Karimganj,18,18,Assam,317,2002-10-01,244.3265217
+Kokrajhar,1,18,Assam,300,2002-10-01,237.9948758
+Lakhimpur,8,18,Assam,307,2002-10-01,158.3222807
+Marigaon,5,18,Assam,304,2002-10-01,327.7785056
+Nagaon,6,18,Assam,305,2002-10-01,250.2460702
+Nalbari,24,18,Assam,323,2002-10-01,250.7391401
+Dima Hasao,16,18,Assam,315,2002-10-01,241.8255225
+South 24 Parganas,17,19,West Bengal,343,2002-10-01,618.8877443
+Uttar Dinajpur,4,19,West Bengal,330,2002-10-01,394.3534418
+Bankura,13,19,West Bengal,339,2002-10-01,538.0474846
+Barddhaman,9,19,West Bengal,335,2002-10-01,525.995551
+Birbhum,8,19,West Bengal,334,2002-10-01,527.1068008
+Dakshin Dinajpur,5,19,West Bengal,331,2002-10-01,437.6781781
+Darjiling,1,19,West Bengal,327,2002-10-01,282.3685571
+Haora,15,19,West Bengal,341,2002-10-01,544.8891893
+Hugli,12,19,West Bengal,338,2002-10-01,515.9599317
+Jalpaiguri,2,19,West Bengal,328,2002-10-01,302.3683683
+Koch Bihar,3,19,West Bengal,329,2002-10-01,291.4357504
+Kolkata,16,19,West Bengal,342,2002-10-01,467.9192648
+Maldah,6,19,West Bengal,332,2002-10-01,537.0990115
+Murshidabad,7,19,West Bengal,333,2002-10-01,483.7930553
+Nadia,10,19,West Bengal,336,2002-10-01,496.7406056
+North 24 Parganas,11,19,West Bengal,337,2002-10-01,556.6996516
+Pashchim Medinipur,18,19,West Bengal,344,2002-10-01,546.5400781
+Purba Medinipur,19,19,West Bengal,345,2002-10-01,578.7056586
+Puruliya,14,19,West Bengal,340,2002-10-01,576.1191125
+Ramgarh,16,20,Jharkhand,361,2002-10-01,618.9047395
+Ranchi,19,20,Jharkhand,364,2002-10-01,500.8263444
+Sahibganj,7,20,Jharkhand,352,2002-10-01,555.7175149
+Saraikela-kharsawan,24,20,Jharkhand,369,2002-10-01,504.6949362
+Simdega,22,20,Jharkhand,367,2002-10-01,465.5011092
+Bokaro,10,20,Jharkhand,355,2002-10-01,641.8785706
+Chatra,2,20,Jharkhand,347,2002-10-01,490.4840421
+Deoghar,5,20,Jharkhand,350,2002-10-01,594.0326422
+Dhanbad,9,20,Jharkhand,354,2002-10-01,651.5472394
+Dumka,17,20,Jharkhand,362,2002-10-01,583.1820543
+Garhwa,1,20,Jharkhand,346,2002-10-01,430.9296536
+Giridih,4,20,Jharkhand,349,2002-10-01,571.4437607
+Godda,6,20,Jharkhand,351,2002-10-01,560.9319718
+Gumla,21,20,Jharkhand,366,2002-10-01,402.3267641
+Hazaribagh,15,20,Jharkhand,360,2002-10-01,522.7051257
+Jamtara,18,20,Jharkhand,363,2002-10-01,617.9909433
+Khunti,20,20,Jharkhand,365,2002-10-01,491.0678515
+Kodarma,3,20,Jharkhand,348,2002-10-01,540.9158596
+Latehar,14,20,Jharkhand,359,2002-10-01,419.5490728
+Lohardaga,11,20,Jharkhand,356,2002-10-01,423.8821535
+Pakur,8,20,Jharkhand,353,2002-10-01,593.2681847
+Palamu,13,20,Jharkhand,358,2002-10-01,464.706427
+Pashchimi Singhbhum,23,20,Jharkhand,368,2002-10-01,450.6271797
+Purbi Singhbhum,12,20,Jharkhand,357,2002-10-01,506.0267375
+Rayagada,27,21,Odisha,396,2002-10-01,321.6032806
+Sambalpur,3,21,Odisha,372,2002-10-01,454.6397361
+Subarnapur,23,21,Odisha,392,2002-10-01,431.3284993
+Sundargarh,5,21,Odisha,374,2002-10-01,449.9240004
+Anugul,15,21,Odisha,384,2002-10-01,466.491603
+Balangir,24,21,Odisha,393,2002-10-01,381.3430963
+Baleshwar,8,21,Odisha,377,2002-10-01,556.4502083
+Bargarh,1,21,Odisha,370,2002-10-01,412.8323204
+Bauda,22,21,Odisha,391,2002-10-01,408.6902101
+Bhadrak,9,21,Odisha,378,2002-10-01,562.0066277
+Cuttack,12,21,Odisha,381,2002-10-01,540.6364683
+Debagarh,4,21,Odisha,373,2002-10-01,473.9345132
+Dhenkanal,14,21,Odisha,383,2002-10-01,507.7956853
+Gajapati,20,21,Odisha,389,2002-10-01,322.0165301
+Ganjam,19,21,Odisha,388,2002-10-01,391.6135472
+Jagatsinghapur,11,21,Odisha,380,2002-10-01,583.6543313
+Jajapur,13,21,Odisha,382,2002-10-01,525.8019765
+Jharsuguda,2,21,Odisha,371,2002-10-01,497.4183229
+Kalahandi,26,21,Odisha,395,2002-10-01,343.0905742
+Kandhamal,21,21,Odisha,390,2002-10-01,328.5021383
+Kendrapara,10,21,Odisha,379,2002-10-01,586.4579935
+Kendujhar,6,21,Odisha,375,2002-10-01,436.6478696
+Khordha,17,21,Odisha,386,2002-10-01,500.272132
+Koraput,29,21,Odisha,398,2002-10-01,299.1461638
+Malkangiri,30,21,Odisha,399,2002-10-01,324.6133267
+Mayurbhanj,7,21,Odisha,376,2002-10-01,462.0974525
+Nabarangapur,28,21,Odisha,397,2002-10-01,322.5137643
+Nayagarh,16,21,Odisha,385,2002-10-01,443.6828777
+Nuapada,25,21,Odisha,394,2002-10-01,333.8117564
+Puri,18,21,Odisha,387,2002-10-01,549.1745884
+Rajnandgaon,9,22,Chhattisgarh,408,2002-10-01,354.561115
+Surguja,2,22,Chhattisgarh,401,2002-10-01,316.6349066
+Kabeerdham,8,22,Chhattisgarh,407,2002-10-01,336.5425644
+Bastar,15,22,Chhattisgarh,414,2002-10-01,334.0735799
+Bijapur,18,22,Chhattisgarh,417,2002-10-01,358.2542784
+Bilaspur,7,22,Chhattisgarh,406,2002-10-01,338.2628025
+Dakshin Bastar Dantewada,17,22,Chhattisgarh,416,2002-10-01,332.5595138
+Dhamtari,13,22,Chhattisgarh,412,2002-10-01,314.0856459
+Durg,10,22,Chhattisgarh,409,2002-10-01,352.4648347
+Janjgir-champa,6,22,Chhattisgarh,405,2002-10-01,363.3423386
+Jashpur,3,22,Chhattisgarh,402,2002-10-01,341.0546693
+Uttar Bastar Kanker,14,22,Chhattisgarh,413,2002-10-01,338.1076131
+Korba,5,22,Chhattisgarh,404,2002-10-01,343.8718285
+Koriya,1,22,Chhattisgarh,400,2002-10-01,315.6783858
+Mahasamund,12,22,Chhattisgarh,411,2002-10-01,335.8590426
+Narayanpur,16,22,Chhattisgarh,415,2002-10-01,352.7202948
+Raigarh,4,22,Chhattisgarh,403,2002-10-01,356.6502436
+Raipur,11,22,Chhattisgarh,410,2002-10-01,338.079917
+Ratlam,17,23,Madhya Pradesh,434,2002-10-01,339.424962
+Rewa,13,23,Madhya Pradesh,430,2002-10-01,467.2379956
+Sagar,10,23,Madhya Pradesh,427,2002-10-01,345.9931958
+Satna,12,23,Madhya Pradesh,429,2002-10-01,435.6836637
+Sehore,28,23,Madhya Pradesh,445,2002-10-01,328.2132685
+Seoni,39,23,Madhya Pradesh,456,2002-10-01,319.614398
+Shahdol,43,23,Madhya Pradesh,460,2002-10-01,364.7134209
+Shajapur,19,23,Madhya Pradesh,436,2002-10-01,344.6113272
+Sheopur,1,23,Madhya Pradesh,418,2002-10-01,380.5768607
+Shivpuri,6,23,Madhya Pradesh,423,2002-10-01,378.2292359
+Sidhi,45,23,Madhya Pradesh,462,2002-10-01,401.0301715
+Singrauli,46,23,Madhya Pradesh,463,2002-10-01,379.7195894
+Tikamgarh,7,23,Madhya Pradesh,424,2002-10-01,395.6194816
+Ujjain,18,23,Madhya Pradesh,435,2002-10-01,354.3173855
+Umaria,14,23,Madhya Pradesh,431,2002-10-01,354.2567629
+Vidisha,26,23,Madhya Pradesh,443,2002-10-01,317.4843701
+West Nimar,23,23,Madhya Pradesh,440,2002-10-01,324.337182
+Alirajpur,48,23,Madhya Pradesh,465,2002-10-01,345.516348
+Anuppur,44,23,Madhya Pradesh,461,2002-10-01,316.7112718
+Ashoknagar,42,23,Madhya Pradesh,459,2002-10-01,329.7781957
+Balaghat,40,23,Madhya Pradesh,457,2002-10-01,331.1754435
+Barwani,24,23,Madhya Pradesh,441,2002-10-01,336.8503698
+Betul,30,23,Madhya Pradesh,447,2002-10-01,316.7356451
+Bhind,3,23,Madhya Pradesh,420,2002-10-01,499.665386
+Bhopal,27,23,Madhya Pradesh,444,2002-10-01,341.6048934
+Burhanpur,50,23,Madhya Pradesh,467,2002-10-01,325.4382337
+Chhatarpur,8,23,Madhya Pradesh,425,2002-10-01,397.5574067
+Chhindwara,38,23,Madhya Pradesh,455,2002-10-01,319.8513797
+Damoh,11,23,Madhya Pradesh,428,2002-10-01,352.2420601
+Datia,5,23,Madhya Pradesh,422,2002-10-01,423.8501034
+Dewas,20,23,Madhya Pradesh,437,2002-10-01,334.6419679
+Dhar,21,23,Madhya Pradesh,438,2002-10-01,338.4411669
+Dindori,36,23,Madhya Pradesh,453,2002-10-01,310.8616978
+East Nimar,49,23,Madhya Pradesh,466,2002-10-01,320.7893429
+Guna,41,23,Madhya Pradesh,458,2002-10-01,346.9964077
+Gwalior,4,23,Madhya Pradesh,421,2002-10-01,432.7199394
+Harda,31,23,Madhya Pradesh,448,2002-10-01,329.237691
+Hoshangabad,32,23,Madhya Pradesh,449,2002-10-01,334.370809
+Indore,22,23,Madhya Pradesh,439,2002-10-01,339.9796971
+Jabalpur,34,23,Madhya Pradesh,451,2002-10-01,346.8402512
+Jhabua,47,23,Madhya Pradesh,464,2002-10-01,344.5551827
+Katni,33,23,Madhya Pradesh,450,2002-10-01,366.8325698
+Mandla,37,23,Madhya Pradesh,454,2002-10-01,327.5429413
+Mandsaur,16,23,Madhya Pradesh,433,2002-10-01,346.4425239
+Morena,2,23,Madhya Pradesh,419,2002-10-01,456.7688925
+Narsimhapur,35,23,Madhya Pradesh,452,2002-10-01,318.0093476
+Neemuch,15,23,Madhya Pradesh,432,2002-10-01,336.7331817
+Panna,9,23,Madhya Pradesh,426,2002-10-01,386.87856
+Raisen,29,23,Madhya Pradesh,446,2002-10-01,326.3946513
+Rajgarh,25,23,Madhya Pradesh,442,2002-10-01,341.1986785
+Sabar Kantha,5,24,Gujarat,472,2002-10-01,364.0918252
+Surat,25,24,Gujarat,492,2002-10-01,408.4158905
+Surendranagar,8,24,Gujarat,475,2002-10-01,384.7282018
+The Dangs,22,24,Gujarat,489,2002-10-01,329.7814601
+Vadodara,19,24,Gujarat,486,2002-10-01,374.3089711
+Valsad,24,24,Gujarat,491,2002-10-01,375.3020619
+Tapi,26,24,Gujarat,493,2002-10-01,368.8783327
+Ahmadabad,7,24,Gujarat,474,2002-10-01,380.271866
+Amreli,13,24,Gujarat,480,2002-10-01,387.2212235
+Anand,15,24,Gujarat,482,2002-10-01,376.318665
+Banas Kantha,2,24,Gujarat,469,2002-10-01,380.1713183
+Bharuch,21,24,Gujarat,488,2002-10-01,399.0690949
+Bhavnagar,14,24,Gujarat,481,2002-10-01,390.3136729
+Dohad,18,24,Gujarat,485,2002-10-01,366.8245344
+Gandhinagar,6,24,Gujarat,473,2002-10-01,379.5108299
+Jamnagar,10,24,Gujarat,477,2002-10-01,355.3198243
+Junagadh,12,24,Gujarat,479,2002-10-01,368.5543719
+Kachchh,1,24,Gujarat,468,2002-10-01,984.4805227
+Kheda,16,24,Gujarat,483,2002-10-01,372.0254212
+Mahesana,4,24,Gujarat,471,2002-10-01,377.1484283
+Narmada,20,24,Gujarat,487,2002-10-01,359.0632318
+Navsari,23,24,Gujarat,490,2002-10-01,408.1806013
+Panch Mahals,17,24,Gujarat,484,2002-10-01,381.5192474
+Patan,3,24,Gujarat,470,2002-10-01,391.2381288
+Porbandar,11,24,Gujarat,478,2002-10-01,349.1679429
+Rajkot,9,24,Gujarat,476,2002-10-01,366.1488925
+Ratnagiri,32,27,Maharashtra,528,2002-10-01,478.0678696
+Sangli,35,27,Maharashtra,531,2002-10-01,392.2355879
+Satara,31,27,Maharashtra,527,2002-10-01,379.2230574
+Sindhudurg,33,27,Maharashtra,529,2002-10-01,519.2819076
+Solapur,30,27,Maharashtra,526,2002-10-01,379.9906249
+Thane,21,27,Maharashtra,517,2002-10-01,391.0254105
+Wardha,8,27,Maharashtra,504,2002-10-01,342.9433131
+Washim,6,27,Maharashtra,502,2002-10-01,319.4924184
+Yavatmal,14,27,Maharashtra,510,2002-10-01,362.984966
+Ahmadnagar,26,27,Maharashtra,522,2002-10-01,349.6460024
+Akola,5,27,Maharashtra,501,2002-10-01,345.640144
+Amravati,7,27,Maharashtra,503,2002-10-01,345.4922506
+Aurangabad,19,27,Maharashtra,515,2002-10-01,323.3184291
+Bhandara,10,27,Maharashtra,506,2002-10-01,351.1227883
+Bid,27,27,Maharashtra,523,2002-10-01,357.8963467
+Buldana,4,27,Maharashtra,500,2002-10-01,323.538142
+Chandrapur,13,27,Maharashtra,509,2002-10-01,369.3007512
+Dhule,2,27,Maharashtra,498,2002-10-01,329.9013569
+Garhchiroli,12,27,Maharashtra,508,2002-10-01,375.8566303
+Gondiya,11,27,Maharashtra,507,2002-10-01,366.6252664
+Hingoli,16,27,Maharashtra,512,2002-10-01,359.0285722
+Jalgaon,3,27,Maharashtra,499,2002-10-01,326.413712
+Jalna,18,27,Maharashtra,514,2002-10-01,356.1088927
+Kolhapur,34,27,Maharashtra,530,2002-10-01,440.2541068
+Latur,28,27,Maharashtra,524,2002-10-01,354.2654446
+Mumbai,23,27,Maharashtra,519,2002-10-01,452.945719
+Mumbai Suburban,22,27,Maharashtra,518,2002-10-01,438.4021231
+Nagpur,9,27,Maharashtra,505,2002-10-01,340.5345855
+Nanded,15,27,Maharashtra,511,2002-10-01,374.2315148
+Nandurbar,1,27,Maharashtra,497,2002-10-01,345.8791829
+Nashik,20,27,Maharashtra,516,2002-10-01,311.5709547
+Osmanabad,29,27,Maharashtra,525,2002-10-01,354.2488832
+Parbhani,17,27,Maharashtra,513,2002-10-01,388.473682
+Pune,25,27,Maharashtra,521,2002-10-01,354.9484699
+Raigarh,24,27,Maharashtra,520,2002-10-01,432.9035656
+Rangareddy,6,28,Andhra Pradesh,537,2002-10-01,413.7751763
+Srikakulam,11,28,Andhra Pradesh,542,2002-10-01,367.4419288
+Visakhapatnam,13,28,Andhra Pradesh,544,2002-10-01,330.0788822
+Vizianagaram,12,28,Andhra Pradesh,543,2002-10-01,353.9427977
+Warangal,9,28,Andhra Pradesh,540,2002-10-01,364.969215
+West Godavari,15,28,Andhra Pradesh,546,2002-10-01,373.0947595
+Adilabad,1,28,Andhra Pradesh,532,2002-10-01,393.0610117
+Anantapur,22,28,Andhra Pradesh,553,2002-10-01,443.5498077
+Chittoor,23,28,Andhra Pradesh,554,2002-10-01,419.7863394
+Y.s.r.,20,28,Andhra Pradesh,551,2002-10-01,420.824103
+East Godavari,14,28,Andhra Pradesh,545,2002-10-01,361.9355142
+Guntur,17,28,Andhra Pradesh,548,2002-10-01,419.5779189
+Hyderabad,5,28,Andhra Pradesh,536,2002-10-01,496.6667555
+Karimnagar,3,28,Andhra Pradesh,534,2002-10-01,374.0716053
+Khammam,10,28,Andhra Pradesh,541,2002-10-01,369.8431637
+Krishna,16,28,Andhra Pradesh,547,2002-10-01,365.6436944
+Kurnool,21,28,Andhra Pradesh,552,2002-10-01,403.7761364
+Mahbubnagar,7,28,Andhra Pradesh,538,2002-10-01,406.7939277
+Medak,4,28,Andhra Pradesh,535,2002-10-01,374.9947468
+Nalgonda,8,28,Andhra Pradesh,539,2002-10-01,414.6571689
+Sri Potti Sriramulu Nellore,19,28,Andhra Pradesh,550,2002-10-01,421.2333847
+Nizamabad,2,28,Andhra Pradesh,533,2002-10-01,369.4321851
+Prakasam,18,28,Andhra Pradesh,549,2002-10-01,428.0089634
+Ramanagara,30,29,Karnataka,584,2002-10-01,397.6884173
+Shimoga,14,29,Karnataka,568,2002-10-01,434.5161717
+Tumkur,17,29,Karnataka,571,2002-10-01,390.1442179
+Udupi,15,29,Karnataka,569,2002-10-01,520.4621947
+Uttara Kannada,9,29,Karnataka,563,2002-10-01,449.7234667
+Yadgir,26,29,Karnataka,580,2002-10-01,425.6127422
+Bagalkot,2,29,Karnataka,556,2002-10-01,394.2882048
+Bangalore Rural,29,29,Karnataka,583,2002-10-01,348.8709198
+Bangalore,18,29,Karnataka,572,2002-10-01,384.4163565
+Belgaum,1,29,Karnataka,555,2002-10-01,401.0603193
+Bellary,11,29,Karnataka,565,2002-10-01,416.106844
+Bidar,4,29,Karnataka,558,2002-10-01,357.7537441
+Bijapur,3,29,Karnataka,557,2002-10-01,409.2627827
+Chamrajnagar,24,29,Karnataka,578,2002-10-01,386.963199
+Chikkaballapura,28,29,Karnataka,582,2002-10-01,420.1847341
+Chikmagalur,16,29,Karnataka,570,2002-10-01,390.1719045
+Chitradurga,12,29,Karnataka,566,2002-10-01,411.3765152
+Dakshina Kannada,21,29,Karnataka,575,2002-10-01,457.139495
+Davanagere,13,29,Karnataka,567,2002-10-01,409.3997259
+Dharwad,8,29,Karnataka,562,2002-10-01,401.1862633
+Gadag,7,29,Karnataka,561,2002-10-01,424.4180756
+Gulbarga,25,29,Karnataka,579,2002-10-01,394.1727325
+Hassan,20,29,Karnataka,574,2002-10-01,388.0009226
+Haveri,10,29,Karnataka,564,2002-10-01,420.7672255
+Kodagu,22,29,Karnataka,576,2002-10-01,368.6747743
+Kolar,27,29,Karnataka,581,2002-10-01,386.11174
+Koppal,6,29,Karnataka,560,2002-10-01,425.7517089
+Mandya,19,29,Karnataka,573,2002-10-01,389.4719027
+Mysore,23,29,Karnataka,577,2002-10-01,381.0844496
+Raichur,5,29,Karnataka,559,2002-10-01,428.2938474
+Thiruvananthapuram,14,32,Kerala,601,2002-10-01,556.8736437
+Thrissur,7,32,Kerala,594,2002-10-01,531.577624
+Wayanad,3,32,Kerala,590,2002-10-01,364.8458942
+Alappuzha,11,32,Kerala,598,2002-10-01,510.9972162
+Ernakulam,8,32,Kerala,595,2002-10-01,506.1160555
+Idukki,9,32,Kerala,596,2002-10-01,399.8864073
+Kannur,2,32,Kerala,589,2002-10-01,488.9437856
+Kasaragod,1,32,Kerala,588,2002-10-01,511.2364312
+Kollam,13,32,Kerala,600,2002-10-01,545.7264885
+Kottayam,10,32,Kerala,597,2002-10-01,450.0695977
+Kozhikode,4,32,Kerala,591,2002-10-01,456.8564426
+Malappuram,5,32,Kerala,592,2002-10-01,483.752526
+Palakkad,6,32,Kerala,593,2002-10-01,483.2992012
+Pathanamthitta,12,32,Kerala,599,2002-10-01,473.4510574
+Ramanathapuram,25,33,Tamil Nadu,626,2002-10-01,474.3493001
+Salem,7,33,Tamil Nadu,608,2002-10-01,450.9015286
+Sivaganga,21,33,Tamil Nadu,622,2002-10-01,422.7717942
+Thanjavur,19,33,Tamil Nadu,620,2002-10-01,403.2228562
+The Nilgiris,10,33,Tamil Nadu,611,2002-10-01,372.8465844
+Theni,23,33,Tamil Nadu,624,2002-10-01,400.1993537
+Thiruvallur,1,33,Tamil Nadu,602,2002-10-01,443.1618585
+Thiruvarur,18,33,Tamil Nadu,619,2002-10-01,413.4337323
+Thoothukkudi,26,33,Tamil Nadu,627,2002-10-01,515.2670114
+Tiruchirappalli,13,33,Tamil Nadu,614,2002-10-01,412.9608837
+Tirunelveli,27,33,Tamil Nadu,628,2002-10-01,445.0998051
+Tiruppur,32,33,Tamil Nadu,633,2002-10-01,354.5322389
+Tiruvannamalai,5,33,Tamil Nadu,606,2002-10-01,344.3036894
+Vellore,4,33,Tamil Nadu,605,2002-10-01,395.1012288
+Viluppuram,6,33,Tamil Nadu,607,2002-10-01,408.6529415
+Virudunagar,24,33,Tamil Nadu,625,2002-10-01,499.9344322
+Nagappattinam,17,33,Tamil Nadu,618,2002-10-01,385.5481248
+Ariyalur,15,33,Tamil Nadu,616,2002-10-01,402.5040406
+Chennai,2,33,Tamil Nadu,603,2002-10-01,382.9333419
+Coimbatore,31,33,Tamil Nadu,632,2002-10-01,384.3403505
+Cuddalore,16,33,Tamil Nadu,617,2002-10-01,491.4531059
+Dharmapuri,29,33,Tamil Nadu,630,2002-10-01,416.269792
+Dindigul,11,33,Tamil Nadu,612,2002-10-01,391.8518874
+Erode,9,33,Tamil Nadu,610,2002-10-01,415.7607598
+Kancheepuram,3,33,Tamil Nadu,604,2002-10-01,401.3371111
+Kanniyakumari,28,33,Tamil Nadu,629,2002-10-01,401.2368263
+Karur,12,33,Tamil Nadu,613,2002-10-01,416.410982
+Krishnagiri,30,33,Tamil Nadu,631,2002-10-01,419.6423811
+Madurai,22,33,Tamil Nadu,623,2002-10-01,438.1357422
+Namakkal,8,33,Tamil Nadu,609,2002-10-01,520.2490788
+Perambalur,14,33,Tamil Nadu,615,2002-10-01,444.4998892
+Pudukkottai,20,33,Tamil Nadu,621,2002-10-01,440.5945992
+Karaikal,4,34,Puducherry,637,2002-10-01,378.5781413
+Puducherry,2,34,Puducherry,635,2002-10-01,405.8330312
+Yanam,1,34,Puducherry,634,2002-10-01,316.1431194
+Mahe,3,34,Puducherry,636,2002-10-01,518.8165004
+Nicobar,1,35,Andaman & Nicobar Island,638,2002-10-01,164.7870009
+South Andaman,3,35,Andaman & Nicobar Island,640,2002-10-01,231.1643378
+North & Middle Andaman,2,35,Andaman & Nicobar Island,639,2002-10-01,251.6367927
