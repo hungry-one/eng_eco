@@ -1,0 +1,188 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+struct q
+{
+    int front,rear,size;
+    int capacity;
+    int *arr;
+};
+
+struct stack
+{
+    int top;
+    int capacity;
+    int *array;
+};
+
+struct stack *creates(int n)
+{
+    struct stack *p;
+    p=(struct stack *)malloc(sizeof(struct stack));
+    p->top=-1;
+    p->capacity=n;
+    p->array=(int *)malloc(sizeof(int)*n);
+    return p;
+}
+
+
+struct q *create(int n)
+{
+    struct q *p=(struct q*)malloc(sizeof(struct q));
+    p->front=p->size=0;
+    p->rear=n-1;
+    p->capacity=n;
+    p->arr=(int *)malloc(sizeof(int)*n);
+    return p;
+}
+
+int isfull(struct q *head)
+{
+    return(head->capacity==head->size);
+}
+
+int isempty(struct q* head)
+{
+    return(head->size==0);
+}
+
+void enq(struct q* head, int n)
+{
+    if(isfull(head))
+    {
+        printf("QUEUE FULL\n");
+        return;
+    }
+    else
+    {
+        head->rear=(head->rear+1)%head->capacity;
+        head->arr[head->rear]=n;
+        head->size=head->size+1;
+    }
+}
+
+int deq(struct q *head)
+{
+    if(isempty(head))
+    {
+        printf("EMPTY QUEUE\n");
+        return;
+    }
+    else
+    {
+        int n=head->arr[head->front];
+        head->front=(head->front+1)%head->capacity;
+        head->size=head->size-1;
+        return n;
+    }
+}
+
+void display(struct q *head)
+{
+    if(isempty(head))
+    {
+        printf("nothing to display\n");
+        return;
+    }
+    else
+    {
+        int a=head->front;
+        int b=head->size;
+        while(b!=0)
+        {
+            printf("%d ",head->arr[a]);
+            a++;
+            b--;
+        }
+        printf("\n");
+    }
+}
+
+void push(struct stack *head,int n)
+{
+    struct stack *p;
+    p=head;
+    if(p->top==-1)
+    {
+        head->array[++head->top]=n;
+    }
+    else
+    
+    head->array[++head->top]=n;
+   
+}
+
+    
+int pop(struct stack *head)
+{
+    int k=-1;
+    if(isempty(head))
+    {
+        printf("empty\n");
+        return k;
+    }
+    else
+    {
+        k=head->array[head->top];
+        head->array[head->top--];
+    }
+    return k;
+}
+
+
+void reverse(struct q *head)
+{
+    struct stack *root=creates(100);
+    int a=head->size;
+    int k;
+    int p;
+    int s=0;
+    printf("enter the value of k\n");
+    scanf("%d",&k);
+    while(s!=k)
+    {
+        p=deq(head);
+        push(root,p);
+        s++;
+    }
+    while(root->top!=-1)
+    {
+        p=pop(root);
+        enq(head,p);
+    }
+   
+    s=0;
+    a=a-k;
+    while(s!=a)
+    {
+        p=deq(head);
+        enq(head,p);
+        s++;
+    }
+    
+}
+
+void main()
+{
+    int n;
+    struct q* head=create(100);
+    enq(head,110);
+    enq(head,120);
+    enq(head,10);
+    enq(head,20);
+    enq(head,30);
+    enq(head,40);
+    enq(head,50);
+    enq(head,60);
+    enq(head,70);
+    enq(head,80);
+    enq(head,90);
+    enq(head,100);
+    n=deq(head);
+    printf("%d is removed\n",n);
+    n=deq(head);
+    printf("%d is removed\n",n);
+    display(head);
+    reverse(head);
+    display(head);
+}

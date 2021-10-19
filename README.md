@@ -1,8 +1,10 @@
 # Extraction of csv files
- Used the get_data_from_googleearth.js to extract data from google earth database.
+Used the get_data_from_googleearth.js to extract data from google earth database.
 
 # Choropleth Plotting of India Map
- Based on the Aerosol Optical Depth values of indivitual districts of India as per 2011 census, A choropleth map can be plotted using the provided code, geojson file and data in csv files
+Based on the Aerosol Optical Depth values of indivitual districts of India as per 2011 census, A choropleth map can be plotted using the provided code, geojson file and data in csv files
 
 # Predict the upcomming year AOD values
- Using recursive neural network method, the upcomming year aod values are predicted.
+Using recursive neural network method, the upcomming year aod values are predicted.
+
+This project is made for Engineering Economics, Sem 5, CSE of NIT Calicut. Batch of 2022. 
